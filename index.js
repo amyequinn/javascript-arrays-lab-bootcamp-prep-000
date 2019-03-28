@@ -23,6 +23,3 @@ function appendKitten(name){
   var appendKitten= ['name'];
   console.log(kittens.concat(appendKitten));
 }
-
-
-
