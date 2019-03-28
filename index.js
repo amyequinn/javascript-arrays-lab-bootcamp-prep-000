@@ -3,7 +3,7 @@ function kittens(){
   console.log(kittens);
 }
 
-function destructivelyAppendKitten(name){
   var name = ["Ralph"];
+function destructivelyAppendKitten(name){
   console.log(kittens.concat(name));
 }
